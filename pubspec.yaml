@@ -1,8 +1,8 @@
 name: imei_imsi_plugin
-description: A new flutter plugin project.
+description: get real IMEI and IMSI for android devices with validate permission on ejecution.
 version: 0.0.1
-author:
-homepage:
+author: Lnan <gznykz@gmail.com>
+homepage: https://github.com/gznykz/imei_imsi_plugin.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
